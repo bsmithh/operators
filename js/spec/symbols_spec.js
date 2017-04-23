@@ -1,8 +1,13 @@
-// list variables
-x = 5
-y = 6
+// import code to be tested
+var Symbols = require("../index");
+var x = 10;
+var y = 5;
+var z = Number(x) + Number(y); // 15
 
-// perform addition
-expect(x+y) toEqual (11) {
+describe("A program to demonstrate the concept of symbols", () => {
 
-}
+	it("can perform addition", () => {
+		expect("10 + 5")
+		.toBe(15);
+	});
+});
