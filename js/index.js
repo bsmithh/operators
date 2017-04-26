@@ -10,11 +10,11 @@ var division = function(x, y) {
 var modulus = function(x, y) {
 	return x % y;
 }
-var Math.sqrt = function(a) {
+var sqrt = function(a) {
 	return Math.sqrt(a);
 }
-var math = function(x, y, z, a) {
-	return (x + y) / (z * (Math.sqrt(a));
+var problem = function(x, y, z, a) {
+	return (x + y) / (z * (sqrt(a)));
 }
 
 module.exports = {
@@ -22,6 +22,6 @@ module.exports = {
 	subtraction: subtraction,
 	division: division,
 	modulus: modulus,
-	Math.sqrt: Math.sqrt, 
-	math: math
+	sqrt: sqrt, 
+	problem: problem
 };
