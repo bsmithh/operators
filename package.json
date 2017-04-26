@@ -1,7 +1,7 @@
 {
   "name": "operators",
   "version": "1.0.0",
-  "description": "A short program to demonstrate the concept of symbols",
+  "description": "A short program to demonstrate the concept of operators",
   "main": "index.js",
   "scripts": {
     "test": "jasmine"
