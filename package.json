@@ -1,5 +1,5 @@
 {
-  "name": "symbols",
+  "name": "operators",
   "version": "1.0.0",
   "description": "A short program to demonstrate the concept of symbols",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bsmithh/symbols.git"
+    "url": "git+https://github.com/bsmithh/operators.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bsmithh/symbols/issues"
+    "url": "https://github.com/bsmithh/operators/issues"
   },
-  "homepage": "https://github.com/bsmithh/symbols#readme"
+  "homepage": "https://github.com/bsmithh/operators#readme"
 }
